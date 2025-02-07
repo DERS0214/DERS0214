@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<span style="background-color:#F89820; color:white; padding:5px 10px; border-radius:5px; font-weight:bold;">JAVA</span>
 <!--
 **DERS0214/DERS0214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
