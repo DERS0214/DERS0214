@@ -2,7 +2,7 @@
 
 
 
-- 👨‍💻 I'm currently studying Computer Science at [ESPOL](https://www.espol.edu.ec/). (Escuela Superior Politécnica del Litoral). 
+- 👨‍💻 I'm currently studying [Computer Science](https://www.fiec.espol.edu.ec/es/carreras-de-grado/computacion) at [ESPOL](https://www.espol.edu.ec/). (Escuela Superior Politécnica del Litoral). 
 - 🔩 I’m improving my skills in **Java, JavaFX, Python, SQL, and Spring Boot**.  
 - 💡 I’m currently learning **JavaScript, CSS, and C#**.  
 - 🧐 I have **basic knowledge** of Dart, Flutter, PHP, Ruby, Google Cloud, and Docker Desktop.  
