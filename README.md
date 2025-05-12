@@ -34,6 +34,18 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
 ![Docker Desktop](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
+## 📂 Repositorios en los que he contribuido
+
+- 🔍 [LP-FINAL](https://github.com/kathyforero/LP-FINAL)  
+  Proyecto final relacionado con lenguajes de programación, desarrollado en equipo.
+
+- 🧮 [ProyectoPHP-AnalizadoresLSS](https://github.com/kathyforero/ProyectoPHP-AnalizadoresLSS)  
+  Analizadores léxicos y sintácticos construidos en PHP, orientados a la lógica simbólica.
+
+- 🌲 [Proyecto-EstructurasDeDatos](https://github.com/kathyforero/Proyecto-EstructurasDeDatos)  
+  Implementación de estructuras de datos fundamentales en Java.
+
+
 ## 📊 GitHub Stats:
 
 <div align="center">
