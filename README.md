@@ -45,6 +45,15 @@
 - 🌲 [Proyecto-EstructurasDeDatos](https://github.com/kathyforero/Proyecto-EstructurasDeDatos)  
   Implementación de estructuras de datos fundamentales en Java.
 
+- 📊 [ESTADISTICA-PROYECTO](https://github.com/DERS0214/ESTADISTICA-PROYECTO)  
+  Análisis estadístico con R basado en un conjunto de datos reales. Incluye visualización y limpieza de datos.
+
+- 🎮 [ED-Proyecto-2P](https://github.com/DERS0214/ED-Proyecto-2P)  
+  Juego de preguntas y respuestas con estructuras de datos (Java + JavaFX). Utiliza árboles binarios y archivos `.txt`.
+
+- 🧑‍💻 [DERS0214 (Perfil GitHub)](https://github.com/DERS0214/DERS0214)  
+  Repositorio principal de presentación personal en GitHub. Contiene tu README de perfil.
+
 
 ## 📊 GitHub Stats:
 
