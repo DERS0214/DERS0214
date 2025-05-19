@@ -85,7 +85,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=DERS0214\&theme=darkhub\&no-frame=false\&no-bg=true\&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=DERS0214&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
 </div>
 
