@@ -19,7 +19,6 @@
 
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" height="22"> <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white" height="22"> <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white" height="22"> <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=r&logoColor=white" height="22"> <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white" height="22"> <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" height="22"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=plastic&logo=javascript&logoColor=black" height="22"> <img src="https://img.shields.io/badge/C-00599C.svg?style=plastic&logo=c&logoColor=white" height="22">
 
-
 ### 🧰 Frameworks and Libraries
 
 <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=spring&logoColor=white" height="22"> <img src="https://img.shields.io/badge/JavaFX-%23FF0000.svg?style=plastic&logo=javafx&logoColor=white" height="22"> <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white" height="22"> <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white" height="22"> <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black" height="22"> <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white" height="22"> <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white" height="22">
@@ -38,7 +37,7 @@
 
 ### 🧑‍🏫 IDEs and Learning Platforms
 
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=plastic&logo=intellij-idea&logoColor=white" height="22"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white" height="22"> <img src="https://img.shields.io/badge/ESPOL-%23005491.svg?style=plastic&logo=academia&logoColor=white" height="22">
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=plastic&logo=intellij-idea&logoColor=white" height="22"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white" height="22"> <img src="https://img.shields.io/badge/Cursor-5D3FD3.svg?style=plastic&logo=cursor&logoColor=white" height="22"> <img src="https://img.shields.io/badge/ESPOL-%23005491.svg?style=plastic&logo=academia&logoColor=white" height="22">
 
 ### 🎨 Design and Productivity
 
