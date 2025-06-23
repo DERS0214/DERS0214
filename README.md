@@ -3,7 +3,7 @@
 * 👨‍💻 I'm currently studying [Computer Science](https://www.fiec.espol.edu.ec/es/carreras-de-grado/computacion) at [ESPOL](https://www.espol.edu.ec/) (Escuela Superior Politécnica del Litoral).
 * 🔩 I'm improving my skills in **Java, JavaFX, Python, SQL, and Spring Boot**.
 * 💡 I'm currently learning **JavaScript, TypeScript, CSS, C#, React, Vite, and Tailwind CSS**.
-* 👀 I have **basic knowledge** of Dart, Flutter, PHP, Ruby, Google Cloud, and Docker Desktop.
+* 👀 I have **basic knowledge** of Dart, Flutter, PHP, Ruby, Google Cloud, C, TypeScript, JavaScript and Docker Desktop.
 * 📢 Contact me via: [LinkedIn](https://www.linkedin.com/in/ders0214/) | [GitHub](https://github.com/DERS0214)
 * 📍 Born and currently living in Guayaquil, Ecuador.
 
