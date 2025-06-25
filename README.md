@@ -68,7 +68,7 @@
   Main personal profile repository on GitHub. Contains your README profile.
 
 * 🗂️ [curriculum](https://github.com/DERS0214/curriculum)
-  **Portafolio Personal - David Ramírez:** Mi portafolio como estudiante de Ingeniería en Computación con información académica, experiencia, tecnologías y datos de contacto. Desplegado en GitHub Pages: [https://ers0214.github.io](https://ers0214.github.io).
+  **Portafolio Personal - David Ramírez:** Mi portafolio como estudiante de Ingeniería en Computación con información académica, experiencia, tecnologías y datos de contacto.
 
 * 💻 [LandingPage](https://github.com/kathyforero/LandingPage)
   Landing page responsive creada con HTML5, CSS3 y GitHub Pages para despliegue.
