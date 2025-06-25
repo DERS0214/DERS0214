@@ -9,9 +9,9 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DERS0214)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dramirez021487@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DERS0214)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/DERS0214)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:dramirez021487@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github\&logoColor=white)](https://github.com/DERS0214)
 
 ## 💻 Tech Stack
 
@@ -66,6 +66,12 @@
 
 * 🧑‍💻 [DERS0214 (GitHub Profile)](https://github.com/DERS0214/DERS0214)
   Main personal profile repository on GitHub. Contains your README profile.
+
+* 🗂️ [curriculum](https://github.com/DERS0214/curriculum)
+  **Portafolio Personal - David Ramírez:** Mi portafolio como estudiante de Ingeniería en Computación con información académica, experiencia, tecnologías y datos de contacto. Desplegado en GitHub Pages: [https://ers0214.github.io](https://ers0214.github.io).
+
+* 💻 [LandingPage](https://github.com/kathyforero/LandingPage)
+  Landing page responsive creada con HTML5, CSS3 y GitHub Pages para despliegue.
 
 ## 📊 GitHub Stats:
 
