@@ -50,28 +50,29 @@
 ## 📂 Repositories I've Contributed To
 
 * 🔍 [LP-FINAL](https://github.com/kathyforero/LP-FINAL)
-  Final project related to programming languages, developed collaboratively.
+  **GuayacoCar** — a cross-platform vehicle marketplace built with Flutter (frontend) and Spring Boot (Java 21 backend), using Firebase Auth, Firestore and Storage for user management and image hosting.
 
 * 🧮 [ProyectoPHP-AnalizadoresLSS](https://github.com/kathyforero/ProyectoPHP-AnalizadoresLSS)
-  Lexical and syntactic analyzers built with PHP, focused on symbolic logic.
+  PHP language analyzer implementing lexical, syntactic and semantic phases with **PLY**; includes a tkinter GUI that highlights errors in real time.
 
 * 🌲 [Proyecto-EstructurasDeDatos](https://github.com/kathyforero/Proyecto-EstructurasDeDatos)
-  Implementation of fundamental data structures using Java.
+  Desktop edition of GuayacoCar in **JavaFX**. Uses custom data structures and `.dat` serialization to manage the car catalog and user sessions.
 
 * 📊 [ESTADISTICA-PROYECTO](https://github.com/DERS0214/ESTADISTICA-PROYECTO)
-  Statistical analysis using R based on a real-world dataset. Includes data cleaning and visualization.
+  Statistical analysis of student surveys in **R** with Z-tests, Kolmogorov–Smirnov normality checks and χ² independence tests, plus ggplot2 visualizations.
 
 * 🎮 [ED-Proyecto-2P](https://github.com/DERS0214/ED-Proyecto-2P)
-  Quiz game using data structures (Java + JavaFX). Utilizes binary trees and `.txt` files.
+  **Guess-What Quiz Game** in JavaFX that leverages binary trees for decision logic and serializes topics for persistent gameplay.
 
 * 🧑‍💻 [DERS0214 (GitHub Profile)](https://github.com/DERS0214/DERS0214)
-  Main personal profile repository on GitHub. Contains your README profile.
+  Interactive README showcasing tech stack, key projects and auto-generated GitHub metrics.
 
 * 🗂️ [curriculum](https://github.com/DERS0214/curriculum)
-  **Portafolio Personal - David Ramírez:** Mi portafolio como estudiante de Ingeniería en Computación con información académica, experiencia, tecnologías y datos de contacto.
+  Single-page personal portfolio built with **React + TypeScript**, featuring responsive design, dark/light themes and smooth animations.
 
 * 💻 [LandingPage](https://github.com/kathyforero/LandingPage)
-  Landing page responsive creada con HTML5, CSS3 y GitHub Pages para despliegue.
+  Responsive landing page crafted with **HTML5 & CSS3**, deployed via GitHub Pages.
+
 
 ## 📊 GitHub Stats:
 
