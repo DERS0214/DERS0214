@@ -6,12 +6,14 @@
 * 👀 I have **basic knowledge** of Dart, Flutter, PHP, Ruby, Google Cloud, C, TypeScript, JavaScript and Docker Desktop.
 * 📢 Contact me via: [LinkedIn](https://www.linkedin.com/in/ders0214/) | [GitHub](https://github.com/DERS0214)
 * 📍 Born and currently living in Guayaquil, Ecuador.
-
+* 💼 **Check out my work:** [Portfolio](https://ders0214.github.io/curriculum/)
+  
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/DERS0214)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:dramirez021487@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github\&logoColor=white)](https://github.com/DERS0214)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DERS0214)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dramirez021487@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DERS0214)
+
 
 ## 💻 Tech Stack
 
