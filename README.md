@@ -51,6 +51,9 @@
 
 ## 📂 Repositories I've Contributed To
 
+* 🗂️ [curriculum](https://github.com/DERS0214/curriculum)
+  Single-page personal portfolio built with **React + TypeScript**, featuring responsive design, dark/light themes and smooth animations.
+
 * 🔍 [LP-FINAL](https://github.com/kathyforero/LP-FINAL)
   **GuayacoCar** — a cross-platform vehicle marketplace built with Flutter (frontend) and Spring Boot (Java 21 backend), using Firebase Auth, Firestore and Storage for user management and image hosting.
 
@@ -68,9 +71,6 @@
 
 * 🧑‍💻 [DERS0214 (GitHub Profile)](https://github.com/DERS0214/DERS0214)
   Interactive README showcasing tech stack, key projects and auto-generated GitHub metrics.
-
-* 🗂️ [curriculum](https://github.com/DERS0214/curriculum)
-  Single-page personal portfolio built with **React + TypeScript**, featuring responsive design, dark/light themes and smooth animations.
 
 * 💻 [LandingPage](https://github.com/kathyforero/LandingPage)
   Responsive landing page crafted with **HTML5 & CSS3**, deployed via GitHub Pages.
