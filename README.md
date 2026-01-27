@@ -51,7 +51,7 @@
 
 ## 📂 Repositories I've Contributed To
 
-* 🗂️ [curriculum](https://github.com/DERS0214/curriculum)
+* 🗂️ [Portfolio](https://github.com/DERS0214/curriculum)
   Single-page personal portfolio built with **React + TypeScript**, featuring responsive design, dark/light themes and smooth animations.
 
 * 🔍 [LP-FINAL](https://github.com/kathyforero/LP-FINAL)
