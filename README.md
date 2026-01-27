@@ -6,7 +6,7 @@
 * 👀 I have **basic knowledge** of Dart, Flutter, PHP, Ruby, Google Cloud, C, TypeScript, JavaScript and Docker Desktop.
 * 📢 Contact me via: [LinkedIn](https://www.linkedin.com/in/ders0214/) | [GitHub](https://github.com/DERS0214)
 * 📍 Born and currently living in Guayaquil, Ecuador.
-* 💼 **Check out my work:** [Portfolio](https://ders0214.github.io/curriculum/)
+* 💼 **Check out my work:** [Portfolio](https://ders0214.vercel.app/)
   
 ## 🌐 Socials:
 
